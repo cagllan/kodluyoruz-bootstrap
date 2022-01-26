@@ -1,11 +1,19 @@
-body {
-    background-color: #E9ECEF;
-}
-
-main {
+body,main {
     background-color: #E9ECEF;
 }
 
 .instrument-list {
     list-style-position: inside;
+}
+
+.price {
+    display: inline-block;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+}
+
+.item-name, .page-title {
+    color: #9048AA;
 }
