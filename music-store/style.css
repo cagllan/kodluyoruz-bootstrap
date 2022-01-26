@@ -1,4 +1,4 @@
-body,main {
+body,main,.card-about-us {
     background-color: #E9ECEF;
 }
 
@@ -16,4 +16,11 @@ body,main {
 
 .item-name, .page-title {
     color: #9048AA;
+}
+
+.card-about-us {
+    border-radius:0;
+    border: 0;
+    border-bottom: 1px solid #DBDBD9;
+    
 }
