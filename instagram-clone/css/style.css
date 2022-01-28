@@ -79,3 +79,17 @@ body {
 .text-float-right {
   float: right;
 }
+
+
+.middlearea {
+  margin-top: 2px;
+  max-height: 200px !important;
+}
+
+.card-header, .card-footer {
+  background-color: #fff;
+}
+
+.stories {
+  overflow: hidden;
+}
