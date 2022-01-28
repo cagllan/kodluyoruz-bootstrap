@@ -10,3 +10,7 @@
 ## medium-clone
 
     Bootstrap ile yapılan Medium klonu.
+
+## linkedin-clone
+
+    Bootstrap ile yapılan Linkedin klonu.
