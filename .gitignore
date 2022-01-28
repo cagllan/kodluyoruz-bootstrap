@@ -1,1 +1,18 @@
 .vscode
+
+# medium-clone
+## css
+/medium-clone/css/*
+!/medium-clone/css/bootstrap.min.css
+!/medium-clone/css/medium.css
+
+## fontawesome
+/medium-clone/fontawesome/*
+!/medium-clone/fontawesome/css/
+/medium-clone/fontawesome/css/*
+!/medium-clone/fontawesome/css/all.min.css
+
+## js files
+/medium-clone/js/*
+!/medium-clone/js/jquery-3.5.1.slim.min.js
+!/medium-clone/js/bootstrap.bundle.min.js
