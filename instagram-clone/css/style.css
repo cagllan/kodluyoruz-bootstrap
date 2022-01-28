@@ -4,6 +4,7 @@
   color: gray;
   background-position: 40%;
   background-size: 6%;
+
   /* background image properties */
   background-image: url(/instagram-clone/assets/search-solid.svg);
   background-repeat: no-repeat;
@@ -63,4 +64,18 @@ body {
 
 .logo {
   margin-left: 192px;
+}
+
+.rightpanel {
+  width: 22rem;
+  background-color: transparent;
+  border: 0;
+}
+
+#sticky-sidebar {
+  position: fixed;
+}
+
+.text-float-right {
+  float: right;
 }
