@@ -221,17 +221,38 @@ body {
 }
 
 .job {
-  /* margin-left: -100px; */
-
   position: absolute;
   top: 28px;
   left:82px;
 }
 
 .time {
-  /* margin-left: -77px; */
-
   position: absolute;
   top: 40px;
   left:82px;
 }
+
+/* right-panel */
+
+.footer-about-texts {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  overflow: visible;
+  top: 4rem;
+  margin-left: 0;
+}
+
+
+.footer-about-texts div{
+  display: inline-block;
+  margin-left: 20px;
+}
+
+/* message */
+
+.message-box {
+  width: 300px;
+  
+}
+
+
