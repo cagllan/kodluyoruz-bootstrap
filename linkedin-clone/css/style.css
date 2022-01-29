@@ -132,6 +132,7 @@ button.ref:hover {
 
 /*  new css */
 
+/* navbar */
 .searche {
   margin-right: 150px;
 }
@@ -148,4 +149,36 @@ button.ref:hover {
 
 .profile-img-text {
   margin-top: -1px; 
+}
+
+/* content */
+body {
+  padding-top: 100px;
+}
+
+/* left-panel */
+.left-panel-profile-img {
+  border: 2px solid #fff;
+  border-radius: 100%;
+}
+
+.profile-description-text {
+  font-size: 12px;
+}
+
+.view {
+  
+  font-size: 11px;
+}
+
+.fa-bookmark + span {
+  font-size: 14px;
+}
+
+.card-tags {
+  margin-top: -20px;
+}
+
+.discover-more-text {
+  font-size: 14px;
 }
