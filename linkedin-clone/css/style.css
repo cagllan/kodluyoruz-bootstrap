@@ -190,3 +190,48 @@ body {
   overflow: visible;
   top: 4rem;
 }
+
+/* middle-panel */
+
+.middle-panel {
+  margin-left: 60px;
+}
+
+.start-post-input::placeholder {
+  padding-left:35px;
+  background-position: 2%;
+
+}
+
+
+.button-photo {
+  fill: #70B5F9;
+}
+
+.button-video {
+  fill: #7FC15E;
+}
+
+.button-activity {
+  fill: #E7A33E;
+}
+
+.button-write {
+  fill: #F5987E;
+}
+
+.job {
+  /* margin-left: -100px; */
+
+  position: absolute;
+  top: 28px;
+  left:82px;
+}
+
+.time {
+  /* margin-left: -77px; */
+
+  position: absolute;
+  top: 40px;
+  left:82px;
+}
