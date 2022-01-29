@@ -182,3 +182,11 @@ body {
 .discover-more-text {
   font-size: 14px;
 }
+
+
+.latest {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  overflow: visible;
+  top: 4rem;
+}
